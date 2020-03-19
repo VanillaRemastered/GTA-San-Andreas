@@ -1,0 +1,23 @@
+CFile::Init: Initialised root directory C:\Users\Shane\Desktop\illmatic\San Andreas\
+CFile::GetIntFromIni: section GENERAL key USE_SAMP=1 in file C:\Users\Shane\Desktop\illmatic\San Andreas\imfx\imfx.ini
+CFile::Open: opening C:\Users\Shane\Desktop\illmatic\San Andreas\imfx\lensflare.dat
+____LOADED_TEXTURE imfx_flare0, TEXTURES_LOADED: 1
+____LOADED_TEXTURE imfx_flare1, TEXTURES_LOADED: 2
+____LOADED_TEXTURE imfx_flare2, TEXTURES_LOADED: 3
+____LOADED_TEXTURE imfx_flare3, TEXTURES_LOADED: 4
+____LOADED_TEXTURE imfx_flare4, TEXTURES_LOADED: 5
+____LOADED_TEXTURE imfx_flare5, TEXTURES_LOADED: 6
+____LOADED_TEXTURE imfx_flare6, TEXTURES_LOADED: 7
+____LOADED_TEXTURE imfx_flare7, TEXTURES_LOADED: 8
+____LOADED_TEXTURE imfx_flare8, TEXTURES_LOADED: 9
+____LOADED_TEXTURE imfx_flare9, TEXTURES_LOADED: 10
+____LOADED_TEXTURE imfx_flare10, TEXTURES_LOADED: 11
+CFile::Close: closing file
+CFile::Open: opening C:\Users\Shane\Desktop\illmatic\San Andreas\imfx\moonphases.dat
+____LOADED_TEXTURE imfx_moon, TEXTURES_LOADED: 12
+CFile::Close: closing file
+____LOADED_TEXTURE imfx_screenwater, TEXTURES_LOADED: 13
+CFile::Open: opening C:\Users\Shane\Desktop\illmatic\San Andreas\imfx\gunflash.dat
+CFile::Close: closing file
+CFile::Open: opening C:\Users\Shane\Desktop\illmatic\San Andreas\imfx\explosions.dat
+CFile::Close: closing file
